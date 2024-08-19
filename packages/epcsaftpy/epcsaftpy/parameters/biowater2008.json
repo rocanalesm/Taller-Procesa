@@ -1,0 +1,24 @@
+[
+    {
+        "identifier": {
+            "cas": "7732-18-5",
+            "name": "water",
+            "iupac_name": "oxidane",
+            "smiles": "O",
+            "inchi": "InChI=1S/H2O/h1H2",
+            "formula": "H20"
+        },
+        "model_record": {
+            "m": 1.2046817736,
+            "sigma": 2.7927,
+            "t1": 10.11,
+            "t2": -0.01775,
+            "t3": -1.417,
+            "t4": -0.01146,
+            "epsilon_k": 353.9449,
+            "kappa_ab": 0.045090,
+            "epsilon_k_ab": 2425.6714
+        },
+        "molarweight": 18.01528
+    }
+]
