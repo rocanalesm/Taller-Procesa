@@ -1,0 +1,140 @@
+[
+    {
+        "identifier": {
+            "cas": "67-56-1",
+            "name": "methanol",
+            "iupac_name": "methanol",
+            "smiles": "CO",
+            "inchi": "InChI=1/CH4O/c1-2/h2H,1H3",
+            "formula": "CH4O"
+        },
+        "model_record": {
+            "m": 1.5255,
+            "sigma": 3.23,
+            "epsilon_k": 188.9,
+            "kappa_ab": 0.035176,
+            "epsilon_k_ab": 2899.5,
+            "er": [90.09, -0.192, 0]
+        },
+        "molarweight": 32.042
+    },
+    {
+        "identifier": {
+            "cas": "64-17-5",
+            "name": "ethanol",
+            "iupac_name": "ethanol",
+            "smiles": "CCO",
+            "inchi": "InChI=1/C2H6O/c1-2-3/h3H,2H2,1H3",
+            "formula": "C2H6O"
+        },
+        "model_record": {
+            "m": 2.3827,
+            "sigma": 3.1771,
+            "epsilon_k": 198.24,
+            "kappa_ab": 0.032384,
+            "epsilon_k_ab": 2653.4,
+            "er": [68.47, -0.146, 0]
+        },
+        "molarweight": 46.069
+    },
+    {
+        "identifier": {
+            "cas": "7732-18-5",
+            "name": "water",
+            "iupac_name": "oxidane",
+            "smiles": "O",
+            "inchi": "InChI=1S/H2O/h1H2",
+            "formula": "H20"
+        },
+        "model_record": {
+            "m": 1.2046817736,
+            "sigma": 2.7927,
+            "t1": 10.11,
+            "t2": -0.01775,
+            "t3": -1.417,
+            "t4": -0.01146,
+            "epsilon_k": 353.9449,
+            "kappa_ab": 0.045090,
+            "epsilon_k_ab": 2425.6714,
+            "er": [677.480, 0, -105.2]
+        },
+        "molarweight": 18.01528
+    },
+
+    {
+        "identifier": {
+            "cas": "124-07-2",
+            "name": "octanoic acid",
+            "iupac_name": "caprylic acid",
+            "smiles": "CCCCCCCC(=O)O",
+            "inchi": "InChI=1S/C8H16O2/c1-2-3-4-5-6-7-8(9)10/h2-7H2,1H3,(H,9,10)",
+            "formula": "C8H16O2"
+        },
+        "model_record": {
+            "m": 7.0480,
+            "sigma": 3.1360,
+            "epsilon_k": 234.36,
+            "kappa_ab": 0.02000,
+            "epsilon_k_ab": 1889.20
+        },
+        "molarweight": 144.21
+    },
+
+    {
+        "identifier": {
+            "cas": "89-83-8",
+            "name": "thymol",
+            "iupac_name": "2-Isopropyl-5-methylphenol",
+            "smiles": "CC1=CC(=C(C=C1)C(C)C)O",
+            "inchi": "InChI=1S/C10H14O/c1-7(2)9-5-4-8(3)6-10(9)11/h4-7,11H,1-3H3",
+            "formula": "C10H14O"
+        },
+        "model_record": {
+            "m": 4.012,
+            "sigma": 3.816,
+            "epsilon_k": 290.22,
+            "kappa_ab": 0.0616,
+            "epsilon_k_ab": 1660.0
+        },
+        "molarweight": 150.22
+    }
+    ,
+
+    {
+        "identifier": {
+            "cas": "71-36-3",
+            "name": "butanol",
+            "iupac_name": "1-butanol",
+            "smiles": "CCCCO",
+            "inchi": "InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3",
+            "formula": "C4H10O"
+        },
+        "model_record": {
+            "m": 2.7515,
+            "sigma": 3.6139,
+            "epsilon_k": 259.59,
+            "kappa_ab": 0.006692,
+            "epsilon_k_ab": 2544.6
+        },
+        "molarweight": 74.123
+    },
+
+    {
+        "identifier": {
+            "cas": "110-54-3",
+            "name": "hexane",
+            "iupac_name": "n-Hexane",
+            "smiles": "CCCCO",
+            "inchi": "InChI=1S/C6H14/c1-3-5-6-4-2/h3-6H2,1-2H3",
+            "formula": "CCCCCC"
+        },
+        "model_record": {
+            "m": 3.0576,
+            "sigma": 3.7983,
+            "epsilon_k": 236.77
+        },
+        "molarweight": 86.177
+    }
+
+
+]
