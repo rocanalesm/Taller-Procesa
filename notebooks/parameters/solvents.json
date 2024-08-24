@@ -99,7 +99,7 @@
         "molarweight": 150.22
     }
     ,
-
+    
     {
         "identifier": {
             "cas": "71-36-3",
@@ -118,7 +118,42 @@
         },
         "molarweight": 74.123
     },
-
+    {
+        "identifier": {
+            "cas": "71-36-3",
+            "name": "2propanol",
+            "iupac_name": "1-butanol",
+            "smiles": "CCCCO",
+            "inchi": "InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3",
+            "formula": "C4H10O"
+        },
+        "model_record": {
+            "m": 3.0929,
+            "sigma": 3.2085,
+            "epsilon_k": 208.42,
+            "kappa_ab": 0.024675,
+            "epsilon_k_ab": 2253.9
+        },
+        "molarweight": 60.096 
+    },
+    {
+        "identifier": {
+            "cas": "71-36-3",
+            "name": "1propanol",
+            "iupac_name": "1-butanol",
+            "smiles": "CCCCO",
+            "inchi": "InChI=1S/C4H10O/c1-2-3-4-5/h5H,2-4H2,1H3",
+            "formula": "C4H10O"
+        },
+        "model_record": {
+            "m": 2.9997,
+            "sigma": 3.2522,
+            "epsilon_k": 233.40,
+            "kappa_ab": 0.015268,
+            "epsilon_k_ab": 2276.8
+        },
+        "molarweight": 60.096 
+    },
     {
         "identifier": {
             "cas": "110-54-3",
